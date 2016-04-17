@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+CURRENT_PACKAGE_KEY	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define CURRENT_PACKAGE_KEY /;"	d
+MIN_TOOL_VERSION_alex	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define MIN_TOOL_VERSION_alex(/;"	d
+MIN_TOOL_VERSION_cpphs	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define MIN_TOOL_VERSION_cpphs(/;"	d
+MIN_TOOL_VERSION_gcc	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define MIN_TOOL_VERSION_gcc(/;"	d
+MIN_TOOL_VERSION_ghc	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define MIN_TOOL_VERSION_ghc(/;"	d
+MIN_TOOL_VERSION_ghc_pkg	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define MIN_TOOL_VERSION_ghc_pkg(/;"	d
+MIN_TOOL_VERSION_haddock	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define MIN_TOOL_VERSION_haddock(/;"	d
+MIN_TOOL_VERSION_happy	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define MIN_TOOL_VERSION_happy(/;"	d
+MIN_TOOL_VERSION_hpc	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define MIN_TOOL_VERSION_hpc(/;"	d
+MIN_TOOL_VERSION_hsc2hs	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define MIN_TOOL_VERSION_hsc2hs(/;"	d
+MIN_TOOL_VERSION_hscolour	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define MIN_TOOL_VERSION_hscolour(/;"	d
+MIN_TOOL_VERSION_pkg_config	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define MIN_TOOL_VERSION_pkg_config(/;"	d
+MIN_VERSION_base	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define MIN_VERSION_base(/;"	d
+MIN_VERSION_parsec	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define MIN_VERSION_parsec(/;"	d
+TOOL_VERSION_alex	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define TOOL_VERSION_alex /;"	d
+TOOL_VERSION_cpphs	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define TOOL_VERSION_cpphs /;"	d
+TOOL_VERSION_gcc	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define TOOL_VERSION_gcc /;"	d
+TOOL_VERSION_ghc	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define TOOL_VERSION_ghc /;"	d
+TOOL_VERSION_ghc_pkg	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define TOOL_VERSION_ghc_pkg /;"	d
+TOOL_VERSION_haddock	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define TOOL_VERSION_haddock /;"	d
+TOOL_VERSION_happy	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define TOOL_VERSION_happy /;"	d
+TOOL_VERSION_hpc	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define TOOL_VERSION_hpc /;"	d
+TOOL_VERSION_hsc2hs	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define TOOL_VERSION_hsc2hs /;"	d
+TOOL_VERSION_hscolour	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define TOOL_VERSION_hscolour /;"	d
+TOOL_VERSION_pkg_config	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define TOOL_VERSION_pkg_config /;"	d
+VERSION_base	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define VERSION_base /;"	d
+VERSION_parsec	.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/cabal_macros.h	/^#define VERSION_parsec /;"	d
