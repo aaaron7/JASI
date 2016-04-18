@@ -1,11 +1,11 @@
 # JASI
 JASI(Just Another Scheme Interpreter) written in Haskell
 
-Even so, it do support following features:
+Even so, it does support following features:
 
 - Lambda Calculus;
 - A prelude `prelude.scm` which pre-defined a set of handy functions. 
-- An user-friendly REPL, which support narrow keys use. LOL
+- An user-friendly REPL, which support arrow keys use. LOL
 - Fullly support to binary, oct,dec and hex base number parsing, float number is fine too.
 - Implemented `case`,`if` and `cond` three kinds of condtion mechanism.
 - Powerful error handling, you can always get hints and specfic lines number if your code went something wrong.
